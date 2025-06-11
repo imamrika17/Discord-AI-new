@@ -1,4 +1,4 @@
-# Discord-auto-with-AI From Airdrop Sambil Rebahan
+# Discord-AI-new From Malikendgame
 
 # sistem Requarements
 - 4 core cpu
@@ -76,15 +76,15 @@ screen -r discord
 ## DISCLAIMER
 Gunakan dengan bijak, semua risiko dan tanggung jawab ada di tangan pengguna.
 
-## Support by MyBrain, Chat GPT AI & Join Channel Airdrop Sambil Rebahan : https://t.me/kingfeeder
+## Support malik
 
 ## ☕ Donate for Coffee
 
 **EVM Address**  
-`0xE70Cfda5FE920d0439752D1Cc8081Ef58479aC85`
+`0xe462A37f81Fc497F847866e2F7e0d7C4F5ef32d5`
 
 **SOL Address**  
-`J6qmkXTnngtWeK1JU5kHjfuRrnwgtiLN5QwsRdPjj27C`
+`AjdZNqh9jAnakHYxNx3FZ44amseoePTt3i9tHBmMp31R`
 
 ---
 © 2025 Airdrop Sambil Rebahan. All rights reserved.
