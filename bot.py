@@ -33,7 +33,7 @@ DISCORD_USER_TOKEN = "your_discord_token"
 CHANNEL_ID = ISI channel ID
 INTERVAL_MENIT = 3
 OLLAMA_URL = "http://localhost:11434"
-OLLAMA_MODEL = "gemma:2b"
+OLLAMA_MODEL = "llama3:8b"
 
 # === State ===
 last_response_time = datetime.min
