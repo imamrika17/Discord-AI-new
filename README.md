@@ -23,7 +23,7 @@ curl -fsSL https://ollama.com/install.sh | sh
 ollama serve
 ```
 ```
-ollama pull gemma:2b
+ollama pull llama3:8b
 ```
 **Keluar screen AI**
 - crtl a+d
@@ -34,7 +34,7 @@ screen -S discord
 ```
 **Install Script**
 ```
-git clone https://github.com/yonarebahan/Discord-auto-with-AI.git
+git clone https://github.com/imamrika17/Discord-AI-new.git
 cd Discord-auto-with-AI
 ```
 Buat environtment
